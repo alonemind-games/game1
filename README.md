@@ -6,10 +6,10 @@
 
 ## Game Design Document (live website)
 
-- **Showcase:** https://alonemind-games.github.io/VIRAAM/
-- **Full GDD Bible** (13 departments, 114 pages, print-to-PDF): https://alonemind-games.github.io/VIRAAM/bible.html
+- **Showcase:** https://alonemind-games.github.io/VIRAAM/gdd/
+- **Full GDD Bible** (13 departments, 114 pages, print-to-PDF): https://alonemind-games.github.io/VIRAAM/gdd/bible.html
 
-The site is deployed automatically from the `gdd/` folder by GitHub Actions on every push to `main`.
+GitHub Pages serves this repo from the `main` branch; the root `index.html` forwards to `gdd/`. Every push to `main` updates the site.
 
 ## Repository layout
 

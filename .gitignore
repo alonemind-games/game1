@@ -19,3 +19,6 @@ DerivedDataCache/
 Intermediate/
 Saved/
 *.sln
+
+# The web game is built locally and lives in its own repo later (never pushed here)
+web/
