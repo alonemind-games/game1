@@ -1,0 +1,90 @@
+{
+  "boss_arunak": {
+    "web": "web/boss_arunak.jpg",
+    "full": "hd/boss_arunak.jpg"
+  },
+  "boss_devrath": {
+    "web": "web/boss_devrath.jpg",
+    "full": "hd/boss_devrath.jpg"
+  },
+  "boss_madhyan": {
+    "web": "web/boss_madhyan.jpg",
+    "full": "hd/boss_madhyan.jpg"
+  },
+  "boss_sandhya": {
+    "web": "web/boss_sandhya.jpg",
+    "full": "hd/boss_sandhya.jpg"
+  },
+  "boss_tamas": {
+    "web": "web/boss_tamas.jpg",
+    "full": "hd/boss_tamas.jpg"
+  },
+  "devrath_portrait": {
+    "web": "web/devrath_portrait.jpg",
+    "full": "hd/devrath_portrait.jpg"
+  },
+  "echo_moment": {
+    "web": "web/echo_moment.jpg",
+    "full": "hd/echo_moment.jpg"
+  },
+  "env_banyan": {
+    "web": "web/env_banyan.jpg",
+    "full": "hd/env_banyan.jpg"
+  },
+  "env_bazaar": {
+    "web": "web/env_bazaar.jpg",
+    "full": "hd/env_bazaar.jpg"
+  },
+  "env_ghats": {
+    "web": "web/env_ghats.jpg",
+    "full": "hd/env_ghats.jpg"
+  },
+  "env_kaalchakra": {
+    "web": "web/env_kaalchakra.jpg",
+    "full": "hd/env_kaalchakra.jpg"
+  },
+  "env_prologue": {
+    "web": "web/env_prologue.jpg",
+    "full": "hd/env_prologue.jpg"
+  },
+  "env_stepwell": {
+    "web": "web/env_stepwell.jpg",
+    "full": "hd/env_stepwell.jpg"
+  },
+  "ira_portrait": {
+    "web": "web/ira_portrait.jpg",
+    "full": "hd/ira_portrait.jpg"
+  },
+  "ira_sheet": {
+    "web": "web/ira_sheet.jpg",
+    "full": "hd/ira_sheet.jpg"
+  },
+  "keyart": {
+    "web": "web/keyart.jpg",
+    "full": "hd/keyart.jpg"
+  },
+  "sandhya_portrait": {
+    "web": "web/sandhya_portrait.jpg",
+    "full": "hd/sandhya_portrait.jpg"
+  },
+  "sui_sheet": {
+    "web": "web/sui_sheet.jpg",
+    "full": "hd/sui_sheet.jpg"
+  },
+  "tara_memory": {
+    "web": "web/tara_memory.jpg",
+    "full": "hd/tara_memory.jpg"
+  },
+  "unmade_roster": {
+    "web": "web/unmade_roster.jpg",
+    "full": "hd/unmade_roster.jpg"
+  },
+  "viraam_strike": {
+    "web": "web/viraam_strike.jpg",
+    "full": "hd/viraam_strike.jpg"
+  },
+  "world_map": {
+    "web": "web/world_map.jpg",
+    "full": "hd/world_map.jpg"
+  }
+}

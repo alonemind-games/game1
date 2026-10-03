@@ -1,0 +1,29 @@
+<!doctype html>
+<!-- Copyright ALONEMIND. All Rights Reserved. VIRAAM GDD Bible: full production document. -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VIRAAM · GDD Bible · ALONEMIND</title>
+  <!-- Adobe Fonts kit "VIRAAM GDD (GitHub Pages + local)": Trajan Pro 3, Arno Pro, Acumin Pro -->
+  <link rel="stylesheet" href="https://use.typekit.net/rva0cfu.css">
+  <link rel="stylesheet" href="css/bible.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html" title="Back to the showcase"><span class="brand-title">Viraam</span><span class="brand-sub">GDD Bible</span></a>
+    <label class="search"><input id="search" type="search" placeholder="Search the bible…  (press /)" autocomplete="off"></label>
+    <div class="top-actions">
+      <span id="stats" class="stats"></span>
+      <button class="tbtn" id="btn-print" title="Render every page in one document, then use your browser's Print → Save as PDF">Print / PDF</button>
+      <button class="tbtn ghost" id="btn-menu" aria-label="Toggle contents">☰</button>
+    </div>
+  </header>
+
+  <aside id="sidebar" aria-label="Contents"></aside>
+  <main id="doc" tabindex="-1"></main>
+  <div id="lightbox" hidden><figure><img alt=""><figcaption></figcaption></figure></div>
+
+  <script type="module" src="js/bible/app.js"></script>
+</body>
+</html>

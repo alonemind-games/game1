@@ -1,0 +1,21 @@
+# Copyright ALONEMIND. All Rights Reserved.
+
+# Dependencies
+node_modules/
+
+# Firefly PNG masters stay local (the site uses gdd/art/web + gdd/art/hd JPEGs)
+gdd/art/full/
+
+# Local tooling / editor
+.claude/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Unreal Engine (for when the UE5 project joins this repo)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln

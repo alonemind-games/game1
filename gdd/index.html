@@ -1,0 +1,60 @@
+<!doctype html>
+<!-- Copyright ALONEMIND. All Rights Reserved. VIRAAM Game Design Document showcase. -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VIRAAM · Game Design Document · ALONEMIND</title>
+  <meta name="description" content="VIRAAM: a cinematic third-person action-adventure in Unreal Engine 5 by ALONEMIND. The world stopped. Your mind didn't.">
+  <!-- Adobe Fonts kit "VIRAAM GDD (GitHub Pages + local)": Trajan Pro 3, Arno Pro, Acumin Pro -->
+  <link rel="stylesheet" href="https://use.typekit.net/rva0cfu.css">
+  <link rel="stylesheet" href="css/gdd.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <div id="loader" aria-hidden="true">
+    <div class="studio-mark" data-logo></div>
+    <p class="loader-studio">ALONEMIND</p>
+    <div class="loader-line"><span></span></div>
+    <p class="label">presents</p>
+  </div>
+
+  <nav id="dial" aria-label="Sections"></nav>
+  <div id="progress" aria-hidden="true"><span></span></div>
+
+  <header id="hero">
+    <div class="hero-art" data-art="keyart"></div>
+    <div class="hero-shade"></div>
+    <div class="hero-inner">
+      <p class="label hero-kicker">ALONEMIND · Game Design Document</p>
+      <h1 class="hero-title">Viraam</h1>
+      <p class="hero-deva" lang="hi">विराम · <em>a pause, the full stop</em></p>
+      <p class="hero-tagline">The world stopped. Your mind didn’t.</p>
+      <dl class="facts" id="facts"></dl>
+      <div class="hero-actions">
+        <a class="btn" href="bible.html">Open the full GDD Bible</a>
+        <a class="scroll-cue" href="#pitch"><span>Enter the moment</span><i></i></a>
+      </div>
+    </div>
+  </header>
+
+  <main id="gdd"></main>
+
+  <footer id="footer">
+    <div class="studio-mark small" data-logo></div>
+    <p class="footer-studio">ALONEMIND</p>
+    <p class="footer-line">VIRAAM · <span id="version"></span></p>
+    <p><a class="btn" href="bible.html" style="text-decoration:none;display:inline-block;margin-top:14px">Open the full GDD Bible</a></p>
+    <p class="footer-small">© ALONEMIND. All rights reserved.</p>
+  </footer>
+
+  <div id="lightbox" role="dialog" aria-modal="true" aria-label="Concept art viewer" hidden>
+    <button class="lb-close" aria-label="Close">×</button>
+    <figure><div class="lb-img"></div><figcaption></figcaption></figure>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

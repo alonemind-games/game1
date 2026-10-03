@@ -1,0 +1,13 @@
+{
+  "name": "viraam-tools",
+  "private": true,
+  "type": "module",
+  "description": "ALONEMIND build tools for VIRAAM",
+  "scripts": {
+    "art": "node optimize_art.mjs",
+    "gdd": "node serve.mjs gdd 5173"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}
